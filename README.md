@@ -1,0 +1,1 @@
+# trivy-github-action-example
